@@ -1,2 +1,2 @@
-Physics
-math
+- Physics
+- math
